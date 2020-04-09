@@ -34,9 +34,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stop
 
-<img src='https://github.com/Hergy123/SimpleTweetPart1/blob/master/vieo.gif />
+<img src='http://i.imgur.com/link/to/your/gif/video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
