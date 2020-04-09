@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user storries
 
-<img src='https://github.com/Hergy123/SimpleTweetPart1/blob/master/vieo.gif' title='Video' width=250 alt='Video' />
+<img src='https://github.com/Hergy123/SimpleTweetPart1/blob/master/vieo.gif' title='Video' width= 250 alt='vieo.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
