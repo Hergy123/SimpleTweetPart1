@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stop
 
-<img src='http://i.imgur.com/link/to/your/gif/video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://Hergy123/SimpleTweetPart1/blob/master/vieo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
